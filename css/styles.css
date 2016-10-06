@@ -1,0 +1,48 @@
+body {
+	background-color: white;
+	font-size: 1em;
+	color: lightgrey;
+	text-align: center;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 2em;
+	color: black;
+	background-color: lightblue;
+
+}
+
+h2 {
+	font-size: 1.5em;
+	color: black;
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 0.85em;
+	color: black;
+}
+
+
+article {
+	color: black;
+	margin: 50px auto;
+	border-width: 5px;
+	border-radius: 10px;
+	border-style: solid;
+	padding: 20px 10%;
+
+}
+
+footer {
+	margin 5px auto;
+	background-color: lightblue;
+	color: black;
+}
+
+
+#main {
+	max-width: 70%;
+	margin: 0 auto;
+}
